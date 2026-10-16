@@ -1,0 +1,54 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "719b8607-4c6d-4856-b60a-09e0a724867f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 15.24 15.24)
+		(size 109.22 60.96)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "97453b38-016b-4e54-afc5-b4054767d931")
+		(property "Sheetname" "power_board"
+			(at 15.24 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_board.kicad_sch"
+			(at 15.24 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "laptop thingy"
+				(path "/87f745bb-78c6-457f-92bf-f68ff3775132/341ea7c7-417d-49e2-9257-dbf50735bd68"
+					(page "27")
+				)
+			)
+		)
+	)
+)

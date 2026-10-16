@@ -5,4 +5,50 @@
 	(uuid "7f91c07e-b633-4a55-88c1-ea316ab7d432")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 12.7 15.24)
+		(size 101.6 71.12)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "73815183-956b-472c-ae18-9b6ed796ed51")
+		(property "Sheetname" "chipset_fpga"
+			(at 12.7 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "chipset_fpga.kicad_sch"
+			(at 12.7 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "laptop thingy"
+				(path "/87f745bb-78c6-457f-92bf-f68ff3775132/76aca1ae-180c-4d9e-b8f8-d2c5f72240af"
+					(page "26")
+				)
+			)
+		)
+	)
 )

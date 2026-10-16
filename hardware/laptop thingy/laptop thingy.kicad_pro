@@ -533,6 +533,14 @@
     [
       "fb903826-e5aa-4752-82f3-607135736be7",
       "power"
+    ],
+    [
+      "73815183-956b-472c-ae18-9b6ed796ed51",
+      "chipset_fpga"
+    ],
+    [
+      "97453b38-016b-4e54-afc5-b4054767d931",
+      "power_board"
     ]
   ],
   "text_variables": {},
