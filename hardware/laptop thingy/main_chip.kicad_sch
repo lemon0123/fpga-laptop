@@ -1,0 +1,54 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "ba3e6db6-77e7-4936-a783-b799eeb7c9f5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 12.7 17.78)
+		(size 121.92 91.44)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cf6899c8-389a-4334-a0dd-bb79ccab2df3")
+		(property "Sheetname" "fpga_main"
+			(at 12.7 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga_main.kicad_sch"
+			(at 12.7 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "laptop thingy"
+				(path "/87f745bb-78c6-457f-92bf-f68ff3775132/95d06bcb-0de4-48da-9243-81bb838da0a2"
+					(page "5")
+				)
+			)
+		)
+	)
+)
